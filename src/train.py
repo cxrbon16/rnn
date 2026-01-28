@@ -114,4 +114,3 @@ with torch.no_grad():
         total += 1
 
 print("Test Accuracy:", correct / total)
-
